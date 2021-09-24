@@ -2,7 +2,7 @@
 
 Billing terminal script wrtitten on Go
 
-## Functions:
+## What Billi can do:
 - [x] Create bill with custom name
 - [x] Add item to the bill with custom name and price
 - [x] Add tip to the bill
