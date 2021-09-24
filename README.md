@@ -1,6 +1,6 @@
 # BILLI
 
-Billing terminal script wrtitten on Go
+Terminal app for making bills - wrtitten on Go
 
 ## What Billi can do:
 - [x] Create bill with custom name
