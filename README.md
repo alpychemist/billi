@@ -1,3 +1,6 @@
 # BILLI
 
-Billing terminal script wrtitten in Go langguage
+Billing terminal script wrtitten on Go
+
+## Functions:
+
